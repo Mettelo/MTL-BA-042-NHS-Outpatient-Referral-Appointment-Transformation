@@ -1,3 +1,5 @@
+> **Commission note:** This is historical fictional source evidence. Requests for full lifecycle outputs or pilot delivery are stakeholder ambitions to evaluate. The assessed scope and endpoint are defined in [the current project brief](../project/PROJECT_BRIEF.md). Later pilot evidence is optional and is not participant-executed testing.
+
 # Portal experiment and solution-evaluation source pack
 **Mettelo BA-042 · Stage 6 · Compiled and released 24 August 2026**
 An isolated supplier experiment, not an approved future state or a live patient service.

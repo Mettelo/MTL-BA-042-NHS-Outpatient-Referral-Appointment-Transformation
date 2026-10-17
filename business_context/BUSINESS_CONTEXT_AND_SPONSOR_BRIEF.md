@@ -1,3 +1,5 @@
+> **Commission note:** This is historical fictional source evidence. Requests for full lifecycle outputs or pilot delivery are stakeholder ambitions to evaluate. The assessed scope and endpoint are defined in [the current project brief](../project/PROJECT_BRIEF.md). Later pilot evidence is optional and is not participant-executed testing.
+
 # Westmere outpatient transformation — business context and sponsor brief
 **Mettelo Business Analyst Project Studio · MTL-BA-042 · v2.0 · Stage 1**
 Issued 6 July 2026 by Nadia Price, Divisional Director. All local organisations, people, figures and records are fictional.
