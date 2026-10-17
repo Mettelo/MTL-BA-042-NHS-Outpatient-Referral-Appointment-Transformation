@@ -1,38 +1,29 @@
-# Participant commissioning brief
+# MTL-BA-042 — commissioned assignment
 
-## Required tasks and completion criteria
+**Mettelo Business Analyst Project Studio · distinct pathway edition**
 
-Use [D01–D12: tasks, deliverables and acceptance criteria](TASKS_DELIVERABLES_AND_ACCEPTANCE_CRITERIA.md) as the participant delivery contract. It specifies what you must do, where each output belongs, when to prepare it and how it is reviewed. This guide's broader activity descriptions do not replace those explicit requirements.
+## Role and business decision
+You are the Discovery and Service Business Analyst. What service problem should Westmere investigate or solve next, for whom, and what evidence justifies proceeding beyond discovery?
 
-**Mettelo Business Analyst Project Studio · MTL-BA-042 · v2.0 · Stage 1**
-**Appointment:** Business Analyst · **Window:** 6 July–28 August 2026
+A discovery recommendation: proceed, investigate further, pivot or stop. No FRD, implementation plan, product backlog or UAT portfolio is required.
 
-## Commission and decision
-You are joining Westmere Teaching Hospitals NHS Trust (fictional). Routine referrals are returned for information, patients receive conflicting booking messages and the booking queue is growing.
-The sponsor favours a self-service booking portal. Treat that as a hypothesis. Your commission is to establish the business need, investigate competing accounts and recommend an intervention, sequence or qualified deferral. Leadership needs a decision it can fund and govern, not a catalogue of attractive features.
+## Required work
+| ID | Task | Required output | Assessment weight |
+|---|---|---|---|
+| S1 | Plan a focused discovery | Discovery brief, research questions and elicitation plan | 10% |
+| S2 | Synthesise competing perspectives | Research synthesis and evidence-gap register | 20% |
+| S3 | Understand the patient-facing service | Current patient journey and service blueprint | 20% |
+| S4 | Investigate service performance | Discovery evidence workbook and problem/opportunity assessment | 20% |
+| S5 | Prioritise needs and next experiments | Prioritised service needs and experiment proposals | 15% |
+| S6 | Make the discovery decision | Discovery report and sponsor playback | 15% |
 
-The [business context and sponsor brief](../business_context/BUSINESS_CONTEXT_AND_SPONSOR_BRIEF.md) describes the organisation, source management information, initial boundary, funding and uncertainty. It is source material, not your finished problem statement, scope analysis or business case.
+The [task specification](TASKS_DELIVERABLES_AND_ACCEPTANCE_CRITERIA.md) defines evidence and pass conditions for every output. Equivalent document formats are acceptable; omissions of analytical content are not. This is a 4-week learning commission, not a requirement to deliver a live business implementation.
 
-## Your responsibilities
-You lead analysis, elicitation, modelling, facilitation and an evidence-based recommendation. You do not grant policy exceptions, legal/clinical/security approval, procurement authority or production access. Establish who should validate each material claim and who must decide.
+## Working agreement
+Use supplied facts, conflicting stakeholder accounts and synthetic source records. Make calculations reproducible; distinguish evidence, interpretation, proposal and unresolved approval. Reference actual source paths and row/case IDs. Do not invent stakeholder sign-off, real research, executed tests or realised benefits. External references supply context, not automatic approval of your proposals.
 
-Cover stakeholder analysis and elicitation; current and proposed processes with exceptions; cause investigation; business, functional, non-functional and transition requirements; rule proposals; appropriate use cases/stories and acceptance criteria; priorities; options/costs; traceability; RAID/change impacts; UAT/readiness; and benefits evaluation. Choose formats that support the decision, rather than one document for every label.
+## Commission precedence
+This brief, task criteria, assessment, timeline and release manifest supersede earlier generic end-to-end assignment instructions. Source packs retain historical requests and evolving assumptions to analyse. They are not additional deliverable lists. Record material contradictions and decide how they affect this commission.
 
-Clinical interpretation, urgency and safety approval stay with authorised clinicians. Distinguish local administrative and first-offer measures from referral-to-treatment statistics; never invent a clinical decision rule.
-
-## Decision-quality expectations
-Distinguish observed events, interpretations, proposed targets and unknowns. An interview statement is not automatically an approved requirement. A policy excerpt may conflict with an uncontrolled note. A supplier demonstration is not proof of a contracted interface or a successful implementation.
-
-Any options analysis should consider the minimum credible change as well as more substantial approaches. Explain complete incremental cost, staff capacity, dependencies, exclusions, adoption and control implications. Make assumptions explicit and say what evidence could change the recommendation.
-
-## Evidence and validation
-The source release model deliberately gives incomplete information. Ask follow-ups with a purpose. If the source or facilitator cannot establish a fact, record its consequence rather than inventing an answer. Record disagreement and authority; do not manufacture stakeholder sign-off.
-
-The later prototype experiment is a disputed supplier approach, not necessarily your design. Define independent acceptance evidence before reading results. Explain what the observations do and do not establish and distinguish a recommendation to investigate from a decision to release.
-
-## Boundaries and handover
-The commissioned boundary and exclusions appear in the sponsor brief. Do not silently expand the engagement or substitute technology delivery for business analysis. No real personal data, production transactions or credentials belong in this exercise.
-
-Use your own separate MTL-BA-042-<team-name> delivery repository and the [established submission model](../submission/SUBMISSION_GUIDELINES.md). Retain raw evidence, versioned baselines, individual contribution and review history. Final handover is the tagged delivery repository URL and indexed recommendation/evidence portfolio through Mettelo's cohort route.
-
-Use the [timeline](PROJECT_TIMELINE.md), [delivery guide](DELIVERY_GUIDE.md) and [assessment rubric](ASSESSMENT_CRITERIA.md). Success means a reviewer can follow the need, evidence, choices, changes, acceptance conditions and intended value, including the limits of your conclusion. No completed BA answers are supplied.
+## Submission
+Submit the indexed outputs above in your own delivery repository using [Mettelo's submission model](../submission/SUBMISSION_GUIDELINES.md).
