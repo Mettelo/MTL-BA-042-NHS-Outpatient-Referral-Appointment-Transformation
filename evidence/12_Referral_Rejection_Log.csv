@@ -1,5 +1,0 @@
-event_id,referral_id,event_date,admin_reason,reviewed_by_clinician,resubmitted_date
-RJ01,F002,2026-06-03,missing_history,no,2026-06-08
-RJ02,F003,2026-06-05,no_attachment,no,
-RJ03,F004,2026-06-08,blank_clinical_box,no,
-RJ04,F002,2026-06-05,missing_history,no,2026-06-08
