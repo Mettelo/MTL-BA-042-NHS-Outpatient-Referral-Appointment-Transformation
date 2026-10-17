@@ -1,0 +1,6 @@
+appointment_id,referral_id,clinic_id,appointment_date,event_date,event_type,reason,notification_channel,rebooked_appointment_id
+AP01,F001,CL01,2026-06-22,2026-06-18,cancelled_by_provider,staff_absence,sms,AP02
+AP02,F001,CL03,2026-07-06,2026-06-19,booked,replacement,letter,
+AP03,F002,CL02,2026-06-29,2026-06-25,cancelled_by_patient,transport,phone,
+AP04,F006,CL02,2026-06-29,2026-06-29,did_not_attend,unknown,none,
+AP05,F008,CL04,2026-07-02,2026-06-23,booked,first_booking,letter,
