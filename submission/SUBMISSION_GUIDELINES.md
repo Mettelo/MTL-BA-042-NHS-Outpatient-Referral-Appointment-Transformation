@@ -1,6 +1,6 @@
 # Mettelo BA-042 — separate delivery repository and submission guidelines
 
-**Mettelo Business Analyst Project Studio · MTL-BA-042 · v2.0**  
+**Mettelo Business Analyst Project Studio · MTL-BA-042 · aligned pathway edition**  
 This guide adapts the established Mettelo submission and team-repository standards linked in [source provenance](../reference/OFFICIAL_REFERENCES_AND_SOURCE_PROVENANCE.md). The master is a resource library, not a place to submit participant answers.
 
 ## 1. Create the delivery repository
@@ -41,16 +41,24 @@ Each contributor uses their own GitHub account. Keep CONTRIBUTIONS.md current wi
 
 For individual delivery, identify your own work, source material, external assistance and any simulated/unavailable validation. A stakeholder interview supplied by Mettelo is source evidence, not an interview you personally conducted with a real client.
 
-## 6. Required pathway outputs
+## 6. Exact required team handover
 
-- **S1:** Discovery brief, research questions and elicitation plan.
-- **S2:** Research synthesis and evidence-gap register.
-- **S3:** Current patient journey and service blueprint.
-- **S4:** Discovery evidence workbook and problem/opportunity assessment.
-- **S5:** Prioritised service needs and experiment proposals.
-- **S6:** Discovery report and sponsor playback.
+**Decision the team supports:** Which patient/service problem is sufficiently understood to justify a next phase, what should that phase investigate, and should leadership proceed, pivot, continue discovery or stop?
 
-Index each task and its acceptance criteria in FINAL_SUBMISSION.md. These replace generic end-to-end portfolio requirements. The endpoint is: A discovery recommendation: proceed, investigate further, pivot or stop. No FRD, implementation plan, product backlog or UAT portfolio is required.
+**Audience:** The divisional sponsor, clinical/service leads and the team deciding whether to fund a next phase.
+
+| Task | Required content | Weight |
+|---|---|---|
+| S1 | Discovery brief; research questions; prioritised assumptions; elicitation plan with access, accessibility and evidence limitations. | 10% |
+| S2 | Synthesis of at least five stakeholder perspectives; contradictions; evidence-gap register and follow-up questions. | 20% |
+| S3 | Patient journey; service blueprint covering frontstage/backstage work, exceptions, accessibility and uncertain steps. | 20% |
+| S4 | Reproducible evidence workbook; problem/opportunity assessment with cohort treatment and qualitative triangulation. | 20% |
+| S5 | Prioritised solution-neutral service needs; at least three bounded experiments with learning questions and success/stop criteria. | 15% |
+| S6 | Discovery report; sponsor playback; next-phase recommendation, scope and unresolved assumptions; index to S1–S5. | 15% |
+
+Use [DELIVERABLES_CHECKLIST.md](DELIVERABLES_CHECKLIST.md) to check package content, suggested paths and final repository records. The [task specification](../project/TASKS_DELIVERABLES_AND_ACCEPTANCE_CRITERIA.md) defines four analytical acceptance criteria per task. The final submission index must have a row for each task ID and link all required components. Grouping documents is acceptable; omitted analysis is not.
+
+No full FRD, use-case specification set, implementation business case, mandatory future-state process, product backlog or UAT portfolio is required. Clinical diagnosis, treatment, prioritisation and safety approval remain with authorised clinicians. Emergency/cancer pathways and replacing national e-RS are excluded.
 
 ## 7. Reproduce and review
 

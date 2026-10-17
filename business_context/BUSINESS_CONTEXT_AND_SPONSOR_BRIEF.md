@@ -1,7 +1,5 @@
-> **Commission note:** This is historical fictional source evidence. Requests for full lifecycle outputs or pilot delivery are stakeholder ambitions to evaluate. The assessed scope and endpoint are defined in [the current project brief](../project/PROJECT_BRIEF.md). Later pilot evidence is optional and is not participant-executed testing.
-
 # Westmere outpatient transformation — business context and sponsor brief
-**Mettelo Business Analyst Project Studio · MTL-BA-042 · v2.0 · Stage 1**
+**Mettelo Business Analyst Project Studio · MTL-BA-042 · aligned pathway edition · Stage 1**
 Issued 6 July 2026 by Nadia Price, Divisional Director. All local organisations, people, figures and records are fictional.
 
 ## Organisation and operating model
@@ -41,31 +39,66 @@ Finance's planning rates are £25/hour for administrative capacity, £31/hour fo
 
 Doing nothing may preserve avoidable rework, uncertain ownership and inconsistent communication as demand grows. An unsuitable portal may create additional parallel records, exclude patients and consume the same staff needed to manage the queue. A recommendation must consider both risks without claiming technology creates clinical appointments.
 
-## Sponsor commission and assumptions
-Nadia is Divisional Director and budget sponsor. She can propose operational changes and an investment case; clinical, information-governance, procurement and trust funding authorities remain distinct. She reports to the Chief Operating Officer.
 
-“I want a route that patients and referrers understand. I initially thought a portal was the obvious purchase. I need you to show what is actually delaying administrative progress, what is a capacity issue and what we can change safely. Do not give me a better percentage by excluding returned referrals.”
+## Business need for this commission
 
-Initial funding assumption: £120,000 total one-off, including £12,000 already committed to discovery/support; £20,000 annual incremental operating ceiling, excluding recoverable VAT. Include integration, review, training, support, accessibility and internal backfill. No product or staffing increase is approved.
+Routine dermatology and orthopaedic referrals pass through administrative checks, clinical triage and booking, but patients and GP practices cannot always tell who owns the next step. Repeated information requests, inconsistent status messages and capacity constraints may look like one queue problem even when they have different causes.
 
-Analysis runs 6 July–28 August. The desired limited operational pilot is 12 October. The isolated August supplier experiment is not that operational pilot. The sponsor expects staged decisions before final playback rather than an unauthorised purchase at Week 8.
+Westmere needs to decide what problem is worth solving before commissioning a portal or specifying a solution. Discovery must distinguish patient communication, administrative information quality, clinical hand-off and clinic capacity, and identify where existing evidence is insufficient.
 
-## Proposed outcomes and contested targets
-Nadia proposes 90% of administratively complete routine referrals reaching recorded clinical triage within five working days. Consultants question the capacity assumption and the definition of complete. GP and patient representatives want the earlier received date visible as well. No target is approved and no local measure substitutes for a national RTT standard.
+## Illustrative business situation to investigate
 
-Desired outcomes include fewer repeated information requests, explicit responsibility for unresolved items, accurate appointment messages, access for people needing non-digital support, appropriate clinical review/escalation and auditable information handling. The BA must propose definitions, denominators, baseline/exclusions, owners and evaluation periods for agreement.
+A GP sends a routine referral with attachments. An administrator sees a blank cover field and may return it even if related information is in an attachment. The GP and patient receive incomplete explanations of what happens next. A clinician still needs to make any clinical triage decision, and a usable appointment also depends on site, capacity, interpreter and communication needs. The service journey must be investigated rather than assumed.
 
-## Commissioned boundary and exclusions
-Investigate routine adult dermatology/orthopaedic referral receipt, administrative validation, clinical-review hand-off, first offer, booking changes and communication. Include exceptions, safety/governance dependencies, accessibility and staff adoption. Clinical diagnosis, treatment choice and priority decisions stay with authorised clinicians.
+This is a source scenario. Your team must analyse it; it is not an approved process, detailed use case or designed solution.
 
-Exclude emergency/cancer pathways, replacing national e-RS, full PAS replacement, redesign of treatment capacity and an enterprise-wide patient portal procurement. Repairing a local administrative issue does not authorise resetting an RTT clock. A scope change needs explicit ownership and approval.
+## Sponsor commission and authority
 
-## Risks, dependencies and uncertainty
-Reported risks include repeated return events, unclear attachment-review responsibility, mismatched tracker/PAS states, cancellation-message order, unavailable interpreter evidence and overconfident portal claims. The BA must produce their own risk assessment, not treat this source list as a completed RAID.
+Nadia Price, Divisional Director commissions your team as discovery and service business analysts. The decision is: **Which patient/service problem is sufficiently understood to justify a next phase, what should that phase investigate, and should leadership proceed, pivot, continue discovery or stop?**
 
-Dependencies include clinical-safety participation, capacity/rota confirmation, PAS integration assessment, approved communications, GP/referrer involvement, accessible alternatives and IG/supplier review. Staff can attend one focused 45-minute workshop per week. No additional consultant sessions or headcount are funded.
+The requested handover is: **A discovery report, prioritised service needs and proposed next experiments, with a reasoned proceed/pivot/further-discovery/stop recommendation.**
 
-Nadia initially names the consultant, admin lead, service manager, GP, booking lead, patient panel, IG and IT. She acknowledges that one patient or GP cannot represent all needs. She does not know how many “incomplete” referrals contain usable attachments, which worklist is authoritative at every point, what a portal would actually integrate or whether cancelled slots can be reused safely.
+The sponsor sees potential in self-service, administrators need clear completeness rules, clinicians require safe review, GPs question repeated requests and patients need accessible information. Booking cannot create clinical capacity by improving a screen.
 
-## Decision sought
-Recommend an affordable intervention and sequence, readiness conditions for a limited pilot, ownership of remaining decisions and a credible evaluation approach. Options may include changed local working practices, configuration, targeted integration, communication support or procurement. Explain what further evidence is needed, which claims are disputed and what would change the recommendation. No preferred solution, completed process model, requirements or legal/clinical sign-off is supplied.
+The sponsor can request analysis but cannot substitute for clinical, service, information-governance and funding owners. Identify material approvals and unknowns without fabricating named reviewers or sign-off.
+
+## Scope and exclusions
+
+**Included:** Routine adult dermatology and orthopaedic referral receipt, administrative validation, clinical-review hand-off, first appointment offer and associated communications. Study patient-facing and backstage service dependencies, accessibility and uncertainty.
+
+**Outside this assignment:** No full FRD, use-case specification set, implementation business case, mandatory future-state process, product backlog or UAT portfolio is required. Clinical diagnosis, treatment, prioritisation and safety approval remain with authorised clinicians. Emergency/cancer pathways and replacing national e-RS are excluded.
+
+## Constraints and evidence limitations
+
+The sponsor identifies a possible £120,000 one-off envelope including £12,000 already committed to discovery/support, and £20,000 annual incremental cost. This is context for a possible later intervention, not authority for a four-week discovery team to procure or deploy a system.
+
+The learning commission lasts 4 cohort weeks. Original dates in operational records remain source history; later operational ambitions do not extend the assessed scope. Staff availability is limited: plan proportionate elicitation using supplied interviews and record follow-up questions when real access is unavailable.
+
+The dataset is constructed, observed at its stated cutoff and incomplete for some business questions. An absent event is not always proof an event did not happen. Do not claim representative research, causality, approved targets or realised outcomes merely from these records. Use [the data guide](../evidence/DATA_GUIDE.md) and [source provenance](../reference/OFFICIAL_REFERENCES_AND_SOURCE_PROVENANCE.md).
+
+## How the evidence supports the work
+
+| Evidence | Analytical purpose | Relevant tasks |
+|---|---|---|
+| Stakeholder testimony and discovery field notes | Compare patient, GP, clinical, administrative and booking perspectives; identify missing voices. | S1–S3 |
+| Referrals, returns, appointments and contact records | Distinguish the units and observation windows behind reported service performance. | S3–S4 |
+| Forms, policies and systems context | Locate service hand-offs and uncertainties without prescribing a portal. | S2–S5 |
+| Official RTT source and provenance | Understand external context separately from the fictional trust cohort and local proposed targets. | S4 |
+| Challenge notices | Explore how a target, safety objection or capacity constraint changes discovery priorities and next experiments. | S5–S6 |
+
+## What leadership needs to receive
+
+The sponsor receives a defensible account of user needs, current service pain, evidence strength and remaining unknowns. Proposed experiments have learning questions and success/stop criteria. Discovery does not prove an improved waiting-time outcome or clinical safety.
+
+| Task | Required handover content | Assessment weight |
+|---|---|---|
+| S1 | Discovery brief; research questions; prioritised assumptions; elicitation plan with access, accessibility and evidence limitations. | 10% |
+| S2 | Synthesis of at least five stakeholder perspectives; contradictions; evidence-gap register and follow-up questions. | 20% |
+| S3 | Patient journey; service blueprint covering frontstage/backstage work, exceptions, accessibility and uncertain steps. | 20% |
+| S4 | Reproducible evidence workbook; problem/opportunity assessment with cohort treatment and qualitative triangulation. | 20% |
+| S5 | Prioritised solution-neutral service needs; at least three bounded experiments with learning questions and success/stop criteria. | 15% |
+| S6 | Discovery report; sponsor playback; next-phase recommendation, scope and unresolved assumptions; index to S1–S5. | 15% |
+
+Use [the task specification](../project/TASKS_DELIVERABLES_AND_ACCEPTANCE_CRITERIA.md) for the four acceptance criteria per task and [the submission checklist](../submission/DELIVERABLES_CHECKLIST.md) for the exact handover package. These define the commission; historical stakeholder ambitions are inputs to evaluate, not extra mandatory portfolios.
+
+No preferred solution or completed learner artefacts are provided.
