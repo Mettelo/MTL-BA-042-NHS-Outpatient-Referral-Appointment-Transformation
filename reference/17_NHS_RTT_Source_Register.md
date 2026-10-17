@@ -27,4 +27,4 @@ The excerpt is for understanding official aggregate data structure and limitatio
 
 Source: NHS England, Consultant-led Referral to Treatment Waiting Times, February 2026. Contains public sector information licensed under the Open Government Licence v3.0. [NHS England reuse terms](https://www.england.nhs.uk/terms-and-conditions-2/) and [OGL](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/). No NHS logo is reproduced or endorsement implied.
 
-Use Download_RTT_Source.ps1 to fetch and hash-check the full original archive into a local reference/downloads directory. The archive is also supplied with the build handover. The small excerpt keeps the repository practical while preserving a reproducible source path. 
+Use Download_RTT_Source.ps1 to fetch and hash-check the full original archive into a local reference/downloads directory. The archive is also supplied with the build handover. The small excerpt keeps the repository practical while preserving a reproducible source path.
